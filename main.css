@@ -1,0 +1,24 @@
+#cod-title {
+  width: 450px;
+  padding-top: 80px;
+  padding-left: 20px;
+}
+
+#cod-subtitle {
+  width: 540px;
+  padding-left: 25px;
+}
+
+.card {
+  border: none;
+}
+
+#find-out-more-btn {
+  padding-left: 21px;
+}
+
+#card-img-small {
+  width: 250px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
